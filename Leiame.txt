@@ -1,0 +1,47 @@
+Variavel de estatistica
+Marge Sort (dividir e conquistar)
+
+Quick sort permuta + dividir e conquistar
+
+
+28/03/2022
+Tipos abstrato de dados (TAD)
+São tipos de dados que estendem a funcionalidade dos tipos simples
+(integer, string, boolean, etc) os TAD, qunado implementado concretamente 
+em uma linguagem de progamação, são conhecidas como estrutura de dados. 
+Estas, por sua vez, podem ser fornecidas pela linguagem ou podem ser implementado
+por nós progamadores. As estruturas de dados organizam as informações 
+de modo a possibilitar que os algoritimos tenham a maxima eficiência.  
+
+
+
+01/04/2022
+         dados (variáveis) ---> atributo
+classe  
+         algoritimo (função) ---> metodo
+
+O __init__ é um metodo especial, chamdo construtor, que e chamado sempre que criamos um novo 
+objeto a partir da classe
+Se a classe necessita de dados inicias, que os recebe é o construtor, que s armazena em 
+atributos da classe
+
+
+Atributos + Metodos publicos: podem ser lidos / alterados dentro ou fora da classe
+
+Atributos + Metodos Privados: só podem ser lidos e ecsssados dentro da classe
+
+Abordagem (1)
+método geher + setter
+    (Java style)
+
+Abordagem (2)
+propiedades    
+
+-pilha
+-fila
+-deque
+-lista duplamente ordenada
+-grafo
+-arvore bínaria de busca
+
+pilha - o ultimo 
