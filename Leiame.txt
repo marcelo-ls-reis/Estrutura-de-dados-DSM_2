@@ -45,3 +45,8 @@ propiedades
 -arvore bínaria de busca
 
 pilha - o ultimo 
+
+
+fila (Queue)
+enqueue
+dequeue
