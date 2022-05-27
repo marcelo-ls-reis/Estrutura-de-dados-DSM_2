@@ -67,3 +67,4 @@ print(f"passadas: {passadas}, comparações: {comps}, trocas: {trocas}")
 # print(f"Tempo gasto para ordenar: {(hora_fim - hora_ini) * 1000}ms")
 # print(nomes)
 # print(f"passadas: {passadas}, comparações: {comps}, trocas: {trocas}")
+
